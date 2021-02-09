@@ -1,6 +1,6 @@
 # telegram-bot
 
-This is a bot for the messaging app Telegram. I don't have a server active to run this bot, so if you would like to test it, see [Setup](https://github.com/RD1K/telegram-bot#Setup).
+This is a bot for the messaging app Telegram. I don't have a server active to run this bot, so if you would like to test it, see [Setup](https://github.com/RD1K/python-telegram-bot#Setup).
 
 
 ## Example
