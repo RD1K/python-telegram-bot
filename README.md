@@ -47,3 +47,5 @@ If you did this before, add the next whole number instead of 2. Then, go to line
 Then, below the `domino` function around line 43, add an identical function but replace domino with the name you want for your template. Also, replace 1 with the number you put in the `elif` statement before.
 
 Then, go just above the last line of code, and add an identical line of code to one of the handlers, replacing the first argument with the command you want to be used (in quotes), and replacing the second argument with the function name.
+
+Now, if you send the bot the command you chose, preceded by "/" and followed by the appropriate number of arguments separated by a comma, it will use your template.
